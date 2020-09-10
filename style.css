@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #F5F5DC;
+}
+
+h1 {
+  font-style: bold;
+  color: #7E1F00;
+  text-align: left;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+h2 {
+  font-style: regular;
+  color: #7E1F00;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+#content {
+  background-color: #EDEDED;
+  border-style: dotted;
+}
+
+.button {
+  background-color: #005C26;
+}
+
+a:hover{ background-color: white; font-size: 20px; }
